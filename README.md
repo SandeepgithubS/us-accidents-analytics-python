@@ -126,5 +126,3 @@ Jupyter Notebook
 - Identified predictable temporal and environmental risk patterns.
 
 
-re large data files!
-└── LICENSE                         # Optional but recommended (MIT is common)
