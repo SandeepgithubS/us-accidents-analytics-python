@@ -115,14 +115,13 @@ Jupyter Notebook
 
 ## 💡 Key Insights
 
-- Peak accident occurrence observed during high-traffic hours.
-
-- Weather conditions and reduced visibility strongly influence accident severity.
-
-- High accident concentration in dense urban and high-traffic regions.
-
-- Road infrastructure factors (junctions, signals, crossings) contribute to accident frequency.
-
-- Identified predictable temporal and environmental risk patterns.
+- Peak accidents during rush hours (morning 7–9 AM, evening 4–6 PM) and Fridays.
+  
+- Fair/clear weather surprisingly accounts for the highest volume of accidents (likely due to higher traffic volume).
+- Adverse weather (rain, fog, snow) produces fewer but more severe incidents.
+  
+- Weekday patterns show sharp bimodal rush-hour spikes; weekends exhibit broader, midday peaks.
+  
+- High concentration in urban/high-traffic states and cities; junctions, traffic signals, and crossings significantly elevate risk.
 
 
