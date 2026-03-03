@@ -1,5 +1,5 @@
 # US Accidents Data Analysis (EDA)
-📌 Project Overview:
+Project Overview:
 
 This project focuses on performing large-scale Exploratory Data Analysis (EDA) on the US Accidents dataset containing 70+ million real-world accident records. The primary objective is to uncover meaningful insights, patterns, and risk factors influencing road accidents across the United States.
 
@@ -19,7 +19,7 @@ The analysis explores multiple dimensions including time-based trends, geographi
 
 - Data cleaning, preprocessing, and large-scale dataset handling.
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze accident trends across time, weather, and geography.
 
@@ -34,7 +34,7 @@ The analysis explores multiple dimensions including time-based trends, geographi
 * Discover patterns and risk factors from real-world data.
 
 
-# 📊 Dataset Coverage
+#  Dataset Coverage
 ## Accident Details
 
 ID, Source, Severity, Description, Distance(mi)
@@ -67,7 +67,7 @@ Railway, Roundabout, Station, Stop, Traffic_Calming, Traffic_Signal, Turning_Loo
 
 Infrastructure & Nearby Influence
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 Python
 
@@ -78,7 +78,7 @@ Matplotlib, Seaborn
 Jupyter Notebook
 
 
-# 🔍 Key Work Performed
+#  Key Work Performed
 ## Data Cleaning & Preprocessing
 
 - Handled missing values and incomplete records.
@@ -113,7 +113,7 @@ Jupyter Notebook
 
 - Feature relationship visualization.
 
-## 💡 Key Insights
+##  Key Insights
 
 - Peak accidents during rush hours (morning 7–9 AM, evening 4–6 PM) and Fridays.
   
